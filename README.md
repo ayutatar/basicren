@@ -1,2 +1,2 @@
 # basicren
-a visual novel engine
+a visual novel engine with a visual scripting.
